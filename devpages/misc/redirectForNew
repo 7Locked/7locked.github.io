@@ -1,0 +1,11 @@
+<html>
+<script>var myWindow=window.open(''); 
+myWindow.document.write("
+<h1>7Locked NeverBlocked</h1>
+<p>If 7Locked gets blocked, use this! This'll soon be a new copy of 7Locked!</p>
+"); // This line has the HTML you should change!
+var range = myWindow.document.createRange(); 
+range.selectNode(myWindow.document.getElementById('hello')); 
+myWindow.getSelection().addRange(range); 
+myWindow.select();</script>
+</html>
