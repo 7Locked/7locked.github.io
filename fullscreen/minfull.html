@@ -2,25 +2,15 @@
   <body>
 <iframe src="https://7locked.github.io/devpages/misc/games/minecraft.html">
   <style>
-    html 
-{
- overflow: auto;
+    body {
+    margin: 0;            /* Reset default margin */
 }
- 
-html, body, div, iframe 
-{
- margin: 0px; 
- padding: 0px; 
- height: 100%; 
- border: none;
-}
-    iframe 
-{
- display: block; 
- width: 100%; 
- border: none; 
- overflow-y: auto; 
- overflow-x: hidden;
+iframe {
+    display: block;       /* iframes are inline by default */
+    background: #000;
+    border: none;         /* Reset default border */
+    height: 100vh;        /* Viewport-relative units */
+    width: 100vw;
 }
   </style>
   </body>
