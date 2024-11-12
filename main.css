@@ -1,7 +1,1 @@
-body {
-    background-image: url('background.gif'); /* Make sure the path is correct */
-    background-size: cover; /* Cover the whole page */
-    background-repeat: no-repeat; /* Prevent the GIF from repeating */
-    background-position: center; /* Center the image */
-    background-attachment: fixed; /* Keep the background fixed when scrolling */
-}
+
