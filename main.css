@@ -1,5 +1,10 @@
 h1 {
   font-family:impact;
+  text-align:center;
+}
+p {
+  font-family:arial;
+  text-align:center;
 }
 .button {
   display: inline-block;
