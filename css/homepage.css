@@ -12,6 +12,10 @@ p {
   font-family:arial;
   text-align:center;
 }
+img {
+  display:block;
+  margin:auto;
+}
 .button {
   display: inline-block;
   padding: 10px 20px;
