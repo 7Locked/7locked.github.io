@@ -2,4 +2,12 @@
 <html>
 <head>
 <link rel="icon" type="image/x-icon" href="devpages/favicon.ico">
-<title>
+<link rel="stylesheet" href="css/gamecreate.css">
+<title>How to create your own games!</title>
+</head>
+<body>
+<p>Using MakeAWebOnline, you can create any games you would like with this tool!<br>Just ask ChatGPT or a different AI this:"Can you make me an HTML game with 
+(put in what you want your game to be about here)<br>After you do this, it will generate you an HTML script. Copy and paste it into the box below and click download!
+</p>
+</body>
+</html>
