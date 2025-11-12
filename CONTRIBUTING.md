@@ -77,7 +77,7 @@ If you would like direct write access to the repository (for example, as a colla
    - Your GitHub username.
    - A short description of the role or access level you are requesting.
    - Why you should be granted the requested permissions (experience, prior contributions, planned responsibilities).
-   - Also add the **contributing** label.
+   - Also add the `contributing` label.
 
 2. Alternatively, start a thread in **Discussions** (category: Access / Maintainers) and provide the same information.
 
