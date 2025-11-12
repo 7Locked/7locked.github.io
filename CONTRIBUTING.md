@@ -22,7 +22,7 @@ To help maintainers categorize and manage contributions effectively:
 - Use the **`bug`** label if your issue is **only describing a bug** without suggesting code or features.
 
 ### 💡 Linking Pull Requests
-If you are **suggesting code changes** along with your issue, open a **pull request** and **link it to the issue** (for example, include `Closes #123` in the pull request description).  
+If you are **suggesting code changes** along with your issue, open a **pull request** and **link it to the issue** (for example, include `Closes #123` in the pull request description). We will be checking pull requests less often, until we get more team members.
 If you are **only suggesting a feature or idea**, simply explain it clearly in the issue — a pull request is not required.
 
 Well-documented and properly labeled issues help maintainers and contributors respond more quickly and effectively.
